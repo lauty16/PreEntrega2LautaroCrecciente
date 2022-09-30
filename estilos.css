@@ -26,6 +26,7 @@ header {
   margin-left: 40px;
   padding: 0 40px;
   line-height: 80px;
+  transition: all 1s;
 }
 
 nav {
@@ -224,4 +225,13 @@ h2{
 
   transition: all .5s;
 }
- 
+.items{
+  transition: all 1s;
+}
+.prenda{
+  transition: all 1s;
+}
+.prenda:hover{
+  border-radius: 20px;
+  border: 1px black solid;
+}
