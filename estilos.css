@@ -107,8 +107,13 @@ nav {
 }
 .div-2{display: flex;
     justify-content: space-around;
+    padding-bottom: 20px;
+    
 
 
+}
+.prenda-body{
+  padding-left: 20px;
 }
 
 .logo-img {
@@ -207,3 +212,9 @@ h2{
   padding: 25px;
   margin: 20px;
 }
+@media screen and (min-width: 1024px) {
+  
+
+}
+ 
+ 
