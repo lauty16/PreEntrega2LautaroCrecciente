@@ -212,9 +212,16 @@ h2{
   padding: 25px;
   margin: 20px;
 }
-@media screen and (min-width: 1024px) {
-  
-
+.titulo:hover{
+  background-color:rgb(29, 29, 29);
+  border-radius: 20px;
+  transition: all .5s;
 }
- 
+
+.items:hover{
+  background-color: rgb(29, 29, 29);
+  border-radius: 20px;
+
+  transition: all .5s;
+}
  
